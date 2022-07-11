@@ -1,0 +1,6 @@
+orc = "Garrosh"
+puts "hero of the orcs #{orc}."
+orc = "Lagosh"
+puts "killer of hero #{orc}."
+statement = "I want to watch Jurassic Park"
+puts "it is because #{statement}"
